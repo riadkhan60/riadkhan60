@@ -1,5 +1,3 @@
-![ Web Developer](https://i.pinimg.com/564x/b7/51/8e/b7518e0ea5c63d06ab182a35caac6c9d.jpg)
-
 
 ## Hi there 👋, 
 # I'm Riad Khan
