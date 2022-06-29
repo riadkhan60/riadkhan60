@@ -4,7 +4,7 @@
 ###  Web Developer
 ![ Web Developer](https://i.pinimg.com/564x/b7/51/8e/b7518e0ea5c63d06ab182a35caac6c9d.jpg)
 
-I work as a front-end web developer. I am completely committed to creating error-free, flawlessly robust, and visually appealing websites with complete client satisfaction. I prefer to write clean, easy-to-read code. I am strategic, goal-oriented, and constantly work with an end goal in mind. I enjoy bringing your ideas to life.
+I work as a front-end web developer. I am entirely committed to creating error-free, flawlessly robust, and visually appealing websites with complete client satisfaction. I prefer to write clean, easy-to-read code. I am strategic, goal-oriented, and constantly work with an end goal in my mind. I enjoy bringing your ideas to life.
 
 Skills:  / REACT / JS / HTML / CSS / SASS / TAILWIND CSS
 
