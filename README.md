@@ -21,7 +21,7 @@ Skills:  / REACT / JS / HTML / CSS / SASS / TAILWIND CSS / Ui/Ux Design
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riadkhan60)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riadkhan60)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riadkhan60)](https://github.com/riadkhan60/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=riadkhan60&show_icons=true)  
 
