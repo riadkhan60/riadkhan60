@@ -26,6 +26,8 @@ Skills:  / REACT / JS / HTML / CSS / SASS / TAILWIND CSS / Ui/Ux Design
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=riadkhan60&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/riadkhan60)  
+
+![](https://komarev.com/ghpvc/?username=riadkhan60)
 <!---
 riadkhan60/riadkhan60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
