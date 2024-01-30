@@ -6,7 +6,7 @@
 
 I work as a front-end web developer. I am entirely committed to creating error-free, flawlessly robust, and visually appealing websites with complete client satisfaction. I prefer to write clean, easy-to-read code. I am strategic, goal-oriented, and constantly work with an end goal in my mind. I enjoy bringing your ideas to life.
 
-Skills:  / REACT / JS / HTML / CSS / SASS / TAILWIND CSS / Ui/Ux Design
+Skills:  / REACT / JS / HTML / CSS / SASS / TAILWIND CSS / REDUX / REACT ROUTER / REACT QUERY /  Ui/Ux Design
 
 - 🔭 I’m currently working on Upwork & Fiverr 
 - 🌱 I’m currently learning React JS 
