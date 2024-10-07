@@ -28,6 +28,20 @@ Skills:  / REACT / JS / HTML / CSS / SASS / TAILWIND CSS / REDUX / REACT ROUTER 
 ![Profile views](https://gpvc.arturio.dev/riadkhan60)  
 
 ![](https://komarev.com/ghpvc/?username=riadkhan60)
+
+
+## 🔗 Links
+
+### My Portfolio Website
+https://riad60.netlify.app/home
+
+### My Agency Website
+https://qbexel.com
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-samiul-alam-khan-a2441b239/)
+
+
+
 <!---
 riadkhan60/riadkhan60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
