@@ -87,7 +87,7 @@
   </a>
    <a href="https://www.threads.net/@riad.khan60" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" target="_blank" />
-  </a>https://github.com/riadkhan60/riadkhan60/blob/main/README.md
+  </a>
    <a href="https://www.quora.com/profile/Riad-Khan-5" target="_blank">
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" target="_blank" />
   </a>
