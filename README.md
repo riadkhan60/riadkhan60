@@ -39,8 +39,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,git,github,visualstudio,sass,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vite,firebase,mongodb,supabse,firebase,prisma" /><br>
 </div>
 
 <br/>
@@ -92,6 +92,7 @@
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" target="_blank" />
   </a>
 </div>
+
 <div align="center"> 
    <a href="https://wa.link/7sle37">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
@@ -113,9 +114,12 @@
 </div>
 
 
+<br/>
 
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
+
+
