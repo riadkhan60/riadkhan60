@@ -37,9 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center"> 
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vite,firebase,mongodb,supabase,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />><br>
 </div>
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <br/>
 <hr/>
