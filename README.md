@@ -44,11 +44,20 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=materialui" />
     <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=netlify" />
+    <img src="https://skillicons.dev/icons?i=vercel" />
+    <img src="https://skillicons.dev/icons?i=webflow" />
     <br>
     <img src="https://skillicons.dev/icons?i=javascript" />
-    <img src="https://skillicons.dev/icons?i=sass" />
-    <img src="https://skillicons.dev/icons?i=materialui" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=ts" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=express" />
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=redux" />
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=prisma" />
 </div>
 
 <br/>
