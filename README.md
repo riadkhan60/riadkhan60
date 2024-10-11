@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Riad+Khan;Or;MD+Samiul+Alam+Khan;" />
 </h1>
 
-<h3 align="center">A passionate fullstack software developer </h3>
+<h3 align="center">A passionate Fullstack developer </h3>
 
 <br/>
 
@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Three.js**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/riad/riad60/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/riad60/riad60/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
