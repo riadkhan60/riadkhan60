@@ -53,22 +53,24 @@
     <img src="https://skillicons.dev/icons?i=javascript" />
     <img src="https://skillicons.dev/icons?i=ts" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=bun" />
+    <img src="https://skillicons.dev/icons?i=npm" />
     <img src="https://skillicons.dev/icons?i=express" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=nextjs" />
     <img src="https://skillicons.dev/icons?i=redux" />
-    <img src="https://skillicons.dev/icons?i=prisma" />
     <img src="https://skillicons.dev/icons?i=threejs" />
     <img src="https://skillicons.dev/icons?i=py" />
     <img src="https://skillicons.dev/icons?i=c" />
     <img src="https://skillicons.dev/icons?i=vscode" />
-    <img src="https://skillicons.dev/icons?i=vite" />
-
     <br>
+    <img src="https://skillicons.dev/icons?i=vite" />
+    <img src="https://skillicons.dev/icons?i=prisma" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
-    <img src="https://skillicons.dev/icons?i=supabse" />
+    <img src="https://skillicons.dev/icons?i=supabase" />
     <img src="https://skillicons.dev/icons?i=firebase" />
-
+    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://skillicons.dev/icons?i=docker" />
 </div>
 
 <br/>
