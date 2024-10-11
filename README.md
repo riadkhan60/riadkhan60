@@ -39,11 +39,13 @@
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=javascript" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=sass" />
-    <img src="https://skillicons.dev/icons?i=materialui" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=materialui" />
+    <img src="https://skillicons.dev/icons?i=figma" />
     <br>
+    <img src="https://skillicons.dev/icons?i=javascript" />
     <img src="https://skillicons.dev/icons?i=sass" />
     <img src="https://skillicons.dev/icons?i=materialui" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
