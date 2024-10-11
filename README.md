@@ -63,9 +63,12 @@
     <img src="https://skillicons.dev/icons?i=c" />
     <img src="https://skillicons.dev/icons?i=vscode" />
     <img src="https://skillicons.dev/icons?i=vite" />
+
+    <br>
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://skillicons.dev/icons?i=supabse" />
     <img src="https://skillicons.dev/icons?i=firebase" />
+
 </div>
 
 <br/>
