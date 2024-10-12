@@ -1,6 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=riad60.riad60" />
 
 <h1 align="center">
+    <img src="https://i.imgur.com/A5uZyF2.png" />
+</h1>
+<br/>
+
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Riad+Khan;Or;MD+Samiul+Alam+Khan;" />
 </h1>
 
