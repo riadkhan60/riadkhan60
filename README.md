@@ -145,6 +145,9 @@
   <a href="https://github.com/riadkhan60">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.npmjs.com/~riadkhan60">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 <br/>
