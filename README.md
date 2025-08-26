@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **my agency [Qbexel](https://github.com/Qbexel60)**
+ 🔭 I’m currently working on **my start-up [Qbexel](https://github.com/Qbexel60)**
  
  🌱 I’m currently learning **Three.js**
 
