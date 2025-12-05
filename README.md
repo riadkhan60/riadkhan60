@@ -101,7 +101,7 @@
 
 <br/>
 <h1 align="center">
-    <img src="https://i.imgur.com/5JdpL1p.png" />
+    <img src="https://ibb.co.com/bMPK1BV0" />
 </h1>
 <br/>
 <hr/>
