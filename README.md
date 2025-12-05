@@ -101,7 +101,7 @@
 
 <br/>
 <h1 align="center">
-    <img src="https://ibb.co.com/bMPK1BV0" />
+    <img src="https://i.ibb.co.com/TBKyDTGp/Linked-In-cover-3.png" />
 </h1>
 <br/>
 <hr/>
